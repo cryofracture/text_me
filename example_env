@@ -1,0 +1,5 @@
+export DISCORD_TOKEN=''
+export DISCORD_GUILD=''
+export TWILIO_SID=''
+export TWILIO_AUTH=''
+export TWILIO_NUM=''
